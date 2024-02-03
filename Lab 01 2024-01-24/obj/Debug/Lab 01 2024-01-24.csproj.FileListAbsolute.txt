@@ -1,0 +1,7 @@
+D:\university\Assignments\1 year 3 sem\c#\Lab 01 2024-01-24\obj\Debug\Lab 01 2024-01-24.csproj.AssemblyReference.cache
+D:\university\Assignments\1 year 3 sem\c#\Lab 01 2024-01-24\obj\Debug\Lab 01 2024-01-24.csproj.CoreCompileInputs.cache
+D:\university\Assignments\1 year 3 sem\c#\Lab 01 2024-01-24\bin\Debug\Lab 01 2024-01-24.exe.config
+D:\university\Assignments\1 year 3 sem\c#\Lab 01 2024-01-24\bin\Debug\Lab 01 2024-01-24.exe
+D:\university\Assignments\1 year 3 sem\c#\Lab 01 2024-01-24\bin\Debug\Lab 01 2024-01-24.pdb
+D:\university\Assignments\1 year 3 sem\c#\Lab 01 2024-01-24\obj\Debug\Lab 01 2024-01-24.exe
+D:\university\Assignments\1 year 3 sem\c#\Lab 01 2024-01-24\obj\Debug\Lab 01 2024-01-24.pdb
