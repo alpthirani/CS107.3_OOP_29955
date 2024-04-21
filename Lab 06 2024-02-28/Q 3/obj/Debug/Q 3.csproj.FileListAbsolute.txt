@@ -1,0 +1,10 @@
+D:\university\Assignments\1 year 3 sem\c#\Lab 06 2024-02-28\Q 3\bin\Debug\Q 3.exe.config
+D:\university\Assignments\1 year 3 sem\c#\Lab 06 2024-02-28\Q 3\bin\Debug\Q 3.exe
+D:\university\Assignments\1 year 3 sem\c#\Lab 06 2024-02-28\Q 3\bin\Debug\Q 3.pdb
+D:\university\Assignments\1 year 3 sem\c#\Lab 06 2024-02-28\Q 3\obj\Debug\Q 3.csproj.AssemblyReference.cache
+D:\university\Assignments\1 year 3 sem\c#\Lab 06 2024-02-28\Q 3\obj\Debug\Q_3.Form1.resources
+D:\university\Assignments\1 year 3 sem\c#\Lab 06 2024-02-28\Q 3\obj\Debug\Q_3.Properties.Resources.resources
+D:\university\Assignments\1 year 3 sem\c#\Lab 06 2024-02-28\Q 3\obj\Debug\Q 3.csproj.GenerateResource.cache
+D:\university\Assignments\1 year 3 sem\c#\Lab 06 2024-02-28\Q 3\obj\Debug\Q 3.csproj.CoreCompileInputs.cache
+D:\university\Assignments\1 year 3 sem\c#\Lab 06 2024-02-28\Q 3\obj\Debug\Q 3.exe
+D:\university\Assignments\1 year 3 sem\c#\Lab 06 2024-02-28\Q 3\obj\Debug\Q 3.pdb
