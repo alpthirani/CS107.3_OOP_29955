@@ -1,0 +1,10 @@
+D:\university\Assignments\1 year 3 sem\c#\Lab 07 2024-03-13\LAB Sheet 04 - Q4\obj\Debug\LAB Sheet 04 - Q4.csproj.AssemblyReference.cache
+D:\university\Assignments\1 year 3 sem\c#\Lab 07 2024-03-13\LAB Sheet 04 - Q4\obj\Debug\LAB_Sheet_04___Q4.Form1.resources
+D:\university\Assignments\1 year 3 sem\c#\Lab 07 2024-03-13\LAB Sheet 04 - Q4\obj\Debug\LAB_Sheet_04___Q4.Properties.Resources.resources
+D:\university\Assignments\1 year 3 sem\c#\Lab 07 2024-03-13\LAB Sheet 04 - Q4\obj\Debug\LAB Sheet 04 - Q4.csproj.GenerateResource.cache
+D:\university\Assignments\1 year 3 sem\c#\Lab 07 2024-03-13\LAB Sheet 04 - Q4\obj\Debug\LAB Sheet 04 - Q4.csproj.CoreCompileInputs.cache
+D:\university\Assignments\1 year 3 sem\c#\Lab 07 2024-03-13\LAB Sheet 04 - Q4\bin\Debug\LAB Sheet 04 - Q4.exe.config
+D:\university\Assignments\1 year 3 sem\c#\Lab 07 2024-03-13\LAB Sheet 04 - Q4\bin\Debug\LAB Sheet 04 - Q4.exe
+D:\university\Assignments\1 year 3 sem\c#\Lab 07 2024-03-13\LAB Sheet 04 - Q4\bin\Debug\LAB Sheet 04 - Q4.pdb
+D:\university\Assignments\1 year 3 sem\c#\Lab 07 2024-03-13\LAB Sheet 04 - Q4\obj\Debug\LAB Sheet 04 - Q4.exe
+D:\university\Assignments\1 year 3 sem\c#\Lab 07 2024-03-13\LAB Sheet 04 - Q4\obj\Debug\LAB Sheet 04 - Q4.pdb
